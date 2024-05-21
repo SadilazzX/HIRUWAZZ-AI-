@@ -1,1 +1,3 @@
+heroku config:set BOT_TOKEN=6996555789:AAEiH5R9wZmSYdIn9iG4wlVzVB9u2EBMVEE
+heroku config:set OPENAI_API_KEY=sk-proj-CmhXycL4VooxwdMCWp2FT3BlbkFJSDJXCV5i7B6ugwGv0tOd
 
